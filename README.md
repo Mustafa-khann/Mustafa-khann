@@ -2,7 +2,7 @@
 
 
 **Happy to see you here!** 😍 <br> The green dots on my [**GitHub** profile](https://github.com/mustafa-khann) represent my journey -
-Hi there, I'm [Mustafa][website] 👋
+I'm [Mustafa][website] 👋
 
 [![Website](https://img.shields.io/website?label=Mustafakhan.rocks&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mustafakhan.rocks)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Mustafa_Khan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMustafa_kh4n&screen_name=mustafa_kh4n)
