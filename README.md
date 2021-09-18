@@ -13,7 +13,7 @@
 - 🌐 Mostly Web Dev & 🔒Security
 - 👯 I’m looking to collaborate with other Nerds.
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Draw & too fast to run with!
+- ⚡ Fun fact: I love to Draw & I am too fast to run with!
 - 🤖 Hobby: Electronics & Cool Stuff with Arduino
 
 
