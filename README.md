@@ -31,7 +31,18 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <br>
+<p>
+ <!-- GitHub Statistics!-->
+<img align="left" height="195px" width="400px" src="https://github-readme-stats.vercel.app/api?username=mustafa-khann&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,A0A0A0,020104&title_color=fff&text_color=fff" alt="zaahidali"/>
 
+<!-- Most Languages Used Statistics!-->  
+  <img align="center" height="195px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-khann&layout=compact&hide=php,smarty&bg_color=30,A0A0A0,020104&title_color=fff&text_color=fff" alt="mustafakhan" />
+</p>
+
+### Streak
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-khann&theme=ads-juicy-fresh&hide_border=true" alt="my commit status" width="49%" /> 
+</p>
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
