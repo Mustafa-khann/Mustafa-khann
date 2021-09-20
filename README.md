@@ -6,7 +6,7 @@
 [![Website](https://img.shields.io/website?label=Mustafakhan.rocks&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mustafakhan.rocks)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Mustafa_Khan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMustafa_kh4n&screen_name=mustafa_kh4n)
 
-## I'm a Student, Programmer, and Nerd!!
+## I'm a Student, Programmer, and Engineering Nerd!!
 
 - | Pursuing Bachelor's Degree in CS |
 - 🌱 I’m currently learning JavaScript
