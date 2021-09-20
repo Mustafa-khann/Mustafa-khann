@@ -11,7 +11,7 @@
 - | Pursuing Bachelor's Degree in CS |
 - 🌱 I’m currently learning JavaScript
 - 🌐 Mostly Web Dev & 🔒Security
-- 👯 I’m looking to collaborate with other Nerds.
+- 👯 I’m looking to collaborate with other Computer Nerds.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I Draw!
 - 🤖 Hobby: Electronics & Cool Stuff with Arduino
