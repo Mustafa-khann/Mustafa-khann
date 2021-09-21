@@ -8,11 +8,11 @@
 
 ## I'm a Student, Programmer, and Electrical Engineering Nerd!!
 
-- | Pursuing Bachelor's Degree in CS |
-- 🌱 I’m currently Self learning Backend Development 
-- 🌐 Main Field of Interest 🔒Security
-- 👯 I’m looking to collaborate with other Computer & Engineering Nerds.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🖥 | Pursuing Bachelor's Degree in CS |
+- 🕸️ I’m currently Self learning Backend Web Development. 
+- 🔒 Main Field of Interest: Security
+- 👯 I'd love to collaborate with other Computer & Engineering Nerds || Communities .
+- 🥅 2021 Goals: Learn as Much as I can! 
 - 🤖 Hobby: Electronics & Cool Stuff with Arduino
 
 
