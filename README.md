@@ -55,7 +55,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Mustafa-khann&color=red&label=Profile+Views)
 
-
 [website]: https://mustafakhan.rocks
 [twitter]: https://twitter.com/mustafa_kh4n
 [instagram]: https://instagram.com/mustafa.afridi_
