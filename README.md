@@ -12,7 +12,7 @@
 - 🕸️ I’m currently Self learning Backend Web Development. 
 - 🔒 Main Field of Interest: Security
 - 👯 I'd love to collaborate with other Computer & Engineering Nerds || Communities .
-- 🥅 2021 Goals: Learn as Much as I can! 
+- 🥅 2022 Goals: Learn as Much as I can! 
 - 🤖 Hobby: Electronics & Cool Stuff with Arduino
 
 # Tools & Technologies:
@@ -28,7 +28,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <br>
 <p>
  <!-- GitHub Statistics!-->
@@ -59,4 +58,4 @@
 [website]: https://mustafakhan.rocks
 [twitter]: https://twitter.com/mustafa_kh4n
 [instagram]: https://instagram.com/mustafa.afridi_
-[linkedin]: https://www.linkedin.com/in/mustafa-khan-a89a8b1ba/
+[linkedin]: https://www.linkedin.com/in/mustafa-kh4n/
