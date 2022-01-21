@@ -39,13 +39,13 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-khann&theme=ads-juicy-fresh&hide_border=true" alt="my commit status" width="49%" /> 
 </p>
 ### Connect with me: 
+<br>
 [<img align="left" alt="mustafa.rocks" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Mustafa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Mustafa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mustafa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br>
 ### Github Stats
-<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mustafa-khann&show_icons=true)
 
 ![](https://komarev.com/ghpvc/?username=Mustafa-khann&color=red&label=Profile+Views)
