@@ -11,7 +11,7 @@
 
 - 🖥 | Pursuing Bachelor's Degree in CS |
 - 🕸️ I’m currently Self learning Backend Web Development. 
-- 🔒 Main Field of Interest: idk.....
+- 🔒 Main Field of Interest: idk.....i think pretty much every piece of Knowledge!
 - 👯 I'd love to collaborate with other Computer & Engineering Nerds || Communities.
 - 🥅 2022 Goals: Learn as Much as I can! 
 - 🤖 Hobby: Electronics & Cool Stuff with Arduino
