@@ -39,7 +39,6 @@
 </p>
 
 ### Streak
-<br>Our Streaks ain't the same!
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-khann&theme=ads-juicy-fresh&hide_border=true" alt="my commit status" width="49%" /> 
 </p>
