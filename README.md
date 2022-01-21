@@ -13,22 +13,19 @@
 - 👯 I'd love to collaborate with other Computer & Engineering Nerds || Communities.
 - 🥅 2022 Goals: Learn as Much as I can! 
 - 🤖 Hobby: Electronics & Cool Stuff with Arduino
+- 
+### Languages
+![C++](https://img.shields.io/badge/-C++-000?logo=c)
+![Java](https://img.shields.io/badge/-Java-000?logo=java)
+![JavaScript](https://img.shields.io/badge/-Javascript-000?logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS3-000?logo=CSS3)
 
-# Tools & Technologies:
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<br>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<br>
-<p>
+### Technologies and Frameworks
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Expressjs-000?logo=Express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
+![Arduino](https://img.shields.io/badge/-Arduino-000?logo=arduino)
  
  <!-- GitHub Statistics!-->
 <img align="left" height="195px" width="400px" src="https://github-readme-stats.vercel.app/api?username=mustafa-khann&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,A0A0A0,020104&title_color=fff&text_color=fff" alt="mustafakhan"/>
@@ -42,12 +39,11 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-khann&theme=ads-juicy-fresh&hide_border=true" alt="my commit status" width="49%" /> 
 </p>
 
-### Connect with me
-<br>
-<a href="https://twitter.com/mustafa_kh4n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Mustafa_khan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mustafa-kh4n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mustafa_khan" height="30" width="40" /></a>
-<a href="https://instagram.com/mustafa.afridi_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Mustafa_khan" height="30" width="40" /></a>
-</p>
+### Contact me
+
+[![Gmail](https://img.shields.io/badge/-Gmail-000?logo=gmail)](mailto:mkafridi073@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?logo=twitter)](https://twitter.com/mustafa_kh4n)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/mustafa-kh4n/)
 
 ### Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mustafa-khann&show_icons=true)
