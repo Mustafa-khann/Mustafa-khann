@@ -47,9 +47,9 @@
 </p>
 <br>
 
-### Github Stats
+### Github Stats :
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mustafa-khann&show_icons=true)
 <br>
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=Mustafa-khann&show_icons=true)
 
 ![](https://komarev.com/ghpvc/?username=Mustafa-khann&color=red&label=Profile+Views)
 
