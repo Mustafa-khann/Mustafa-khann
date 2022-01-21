@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">I'm a Student, Programmer, and Electrical Engineering Nerd!</h3>
-![Profile views](https://gpvc.arturio.dev/mustafa-khann)
 
 [![Website](https://img.shields.io/website?label=Mustafakhan.rocks&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mustafakhan.rocks)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Mustafa_Khan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMustafa_kh4n&screen_name=mustafa_kh4n)
@@ -8,7 +7,7 @@
 
 - 🖥 | Pursuing Bachelor's Degree in CS |
 - 🕸️ I’m currently Self learning Backend Web Development. 
-- 🔒 Main Field of Interest: idk.....i think pretty much every piece of Knowledge!
+- 🔒 Main Field of Interest: idk.....pretty much everything interests me!
 - 👯 I'd love to collaborate with other Computer & Engineering Nerds || Communities.
 - 🥅 2022 Goals: Learn as Much as I can! 
 - 🤖 Hobby: Electronics & Cool Stuff with Arduino
@@ -39,8 +38,6 @@
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-khann&theme=ads-juicy-fresh&hide_border=true" alt="my commit status" width="49%" /> 
 </p>
-<br>
-
 ### Connect with me: 
 [<img align="left" alt="mustafa.rocks" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Mustafa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -49,7 +46,6 @@
 <br>
 ### Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mustafa-khann&show_icons=true)
-
 
 ![](https://komarev.com/ghpvc/?username=Mustafa-khann&color=red&label=Profile+Views)
 
