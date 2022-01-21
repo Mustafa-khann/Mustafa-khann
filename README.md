@@ -1,7 +1,7 @@
 **Hey There! Welcome to my GitHub** 👋
 
 
-**Happy to see you here!** 😍 <br> About Me: 
+**Happy to see you here!** 😍
 
 [![Website](https://img.shields.io/website?label=Mustafakhan.rocks&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mustafakhan.rocks)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Mustafa_Khan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMustafa_kh4n&screen_name=mustafa_kh4n)
@@ -39,7 +39,7 @@
 </p>
 
 ### Streak
-<br>Our Streaks ain't the same!<br>
+<br>Our Streaks ain't the same!
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-khann&theme=ads-juicy-fresh&hide_border=true" alt="my commit status" width="49%" /> 
 </p>
