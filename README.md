@@ -6,20 +6,17 @@
  <a href="https://mustafakhan.rocks">
     <img src="https://img.shields.io/badge/Portfolio Website-1DA1F2?style=for-the-badge&logo=Personal_Website&logoColor=white" />
  </a>
- 
 <a href="https://www.twitter.com/mustafa-kh4n/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
+ </a>
 <a href="https://www.instagram.com/mustafa.afridi_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/mustafa-kh4n/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </div>
-<br>
+
 
 ### About Me:
 
@@ -62,6 +59,7 @@
 ### Github Activity Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mustafa-khann&theme=react-dark)  
 
+![](https://komarev.com/ghpvc/?username=Mustafa-khann&color=red&label=Profile+Views)
 
 [website]: https://mustafakhan.rocks
 [Resume]: https://drive.google.com/file/d/1OBI1CbV2Wg8KDhOWaKdXwlEKU5xhGUFf/view?usp=sharing
