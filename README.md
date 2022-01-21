@@ -53,6 +53,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mustafa-khann&show_icons=true)
 <br>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mustafa-khann&theme=react-dark)  
 
 [website]: https://mustafakhan.rocks
 [Resume]: https://drive.google.com/file/d/1OBI1CbV2Wg8KDhOWaKdXwlEKU5xhGUFf/view?usp=sharing
