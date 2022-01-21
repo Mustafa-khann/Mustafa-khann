@@ -41,7 +41,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-khann&theme=ads-juicy-fresh&hide_border=true" alt="my commit status" width="49%" /> 
 </p>
 
-### Connect with me:
+### Connect with me
 <br>
 <a href="https://twitter.com/mustafa_kh4n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Mustafa_khan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mustafa-kh4n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mustafa_khan" height="30" width="40" /></a>
@@ -49,10 +49,10 @@
 </p>
 <br>
 
-### Github Stats :
+### Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mustafa-khann&show_icons=true)
 <br>
-
+### Github Activity Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mustafa-khann&theme=react-dark)  
 
 [website]: https://mustafakhan.rocks
