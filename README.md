@@ -1,11 +1,27 @@
 <h2 align="center">Hi 👋, I'm Mustafa</h2>
 <h3 align="center">I'm a Student, Programmer, and Electrical Engineering Nerd!</h3>
 
-![](https://komarev.com/ghpvc/?username=Mustafa-khann&color=red&label=Profile+Views)
+<div align="center">
+<p align="center">Let's connect!</p>
+ <a href="https://mustafakhan.rocks">
+    <img src="https://img.shields.io/badge/Portfolio Website-1DA1F2?style=for-the-badge&logo=Personal_Website&logoColor=white" />
+ </a>
+ 
+<a href="https://www.twitter.com/mustafa-kh4n/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 
-[![Website](https://img.shields.io/website?label=Personal_website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mustafakhan.rocks)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Mustafa_Khan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMustafa_kh4n&screen_name=mustafa_kh4n)
-[![Resume](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://drive.google.com/file/d/1OBI1CbV2Wg8KDhOWaKdXwlEKU5xhGUFf/view?usp=sharing)
+<a href="https://www.instagram.com/mustafa.afridi_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/mustafa-kh4n/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</div>
+<br>
+
+### About Me:
 
 - 🖥 | Pursuing Bachelor's Degree in CS |
 - 🕸️ I’m currently Self learning Backend Web Development. 
@@ -13,7 +29,7 @@
 - 👯 I'd love to collaborate with other Computer & Engineering Nerds || Communities.
 - 🥅 2022 Goals: Learn as Much as I can! 
 - 🤖 Hobby: Electronics & Cool Stuff with Arduino
-- 
+
 ### Languages
 ![C++](https://img.shields.io/badge/-C++-000?logo=c)
 ![Java](https://img.shields.io/badge/-Java-000?logo=java)
@@ -39,18 +55,13 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-khann&theme=ads-juicy-fresh&hide_border=true" alt="my commit status" width="49%" /> 
 </p>
 
-### Contact me
-
-[![Gmail](https://img.shields.io/badge/-Gmail-000?logo=gmail)](mailto:mkafridi073@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?logo=twitter)](https://twitter.com/mustafa_kh4n)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/mustafa-kh4n/)
-
 ### Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mustafa-khann&show_icons=true)
 <br>
 
 ### Github Activity Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mustafa-khann&theme=react-dark)  
+
 
 [website]: https://mustafakhan.rocks
 [Resume]: https://drive.google.com/file/d/1OBI1CbV2Wg8KDhOWaKdXwlEKU5xhGUFf/view?usp=sharing
