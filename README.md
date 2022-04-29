@@ -9,7 +9,7 @@
 <a href="https://www.twitter.com/mustafa-kh4n/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
-<a href="https://www.instagram.com/mustafa.afridi_/">
+<a href="https://www.instagram.com/mstfa.khan/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/mustafa-kh4n/">
@@ -64,5 +64,5 @@
 [website]: https://mustafakhan.rocks
 [Resume]: https://drive.google.com/file/d/1OBI1CbV2Wg8KDhOWaKdXwlEKU5xhGUFf/view?usp=sharing
 [twitter]: https://twitter.com/mustafa_kh4n
-[instagram]: https://instagram.com/mustafa.afridi_
+[instagram]: https://instagram.com/mstfa.khan
 [linkedin]: https://www.linkedin.com/in/mustafa-kh4n/
