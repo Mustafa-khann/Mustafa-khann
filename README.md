@@ -40,21 +40,17 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?logo=arduino)
  
- <!-- GitHub Statistics!-->
-<img align="left" height="195px" width="400px" src="https://github-readme-stats.vercel.app/api?username=mustafa-khann&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,A0A0A0,020104&title_color=fff&text_color=fff" alt="mustafakhan"/>
-
-<!-- Most Languages Used Statistics!-->  
-  <img align="center" height="195px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-khann&layout=compact&hide=php,smarty&bg_color=30,A0A0A0,020104&title_color=fff&text_color=fff" alt="mustafakhan" />
+ ### Github Stats
+<p align="center">
+<a href="https://github.com/mustafa-khann">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mustafa-khann&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mustafa-khann&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
-### Streak
-<p align="left">
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-khann&theme=ads-juicy-fresh&hide_border=true" alt="my commit status" width="49%" /> 
 </p>
-
-### Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mustafa-khann&show_icons=true)
-<br>
 
 ### Github Activity Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mustafa-khann&theme=react-dark)  
