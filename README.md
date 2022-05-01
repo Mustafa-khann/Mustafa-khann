@@ -58,10 +58,7 @@
 <h4 align="center">Isometric view of contributions in the last year</h4>
 <p align="center">
 	<a href="./profile-3d-contrib/profile-night-green.svg">
-    <style> .3d{
-        border-radius: 20px;
-    }</style>
-		<img class = '3d' width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
+		<img border-radius: '30px' width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
 	</a>
 </p>
 
