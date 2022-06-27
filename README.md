@@ -40,7 +40,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?logo=arduino)
  
- ### Github Stats
+ ### Github Statistics
 <p align="center">
 <a href="https://github.com/mustafa-khann">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mustafa-khann&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
@@ -56,6 +56,7 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mustafa-khann&theme=react-dark)  
 
 ![](https://komarev.com/ghpvc/?username=Mustafa-khann&color=red&label=Profile+Views)
+
 
 [website]: https://mustafakhan.rocks
 [Resume]: https://drive.google.com/file/d/1OBI1CbV2Wg8KDhOWaKdXwlEKU5xhGUFf/view?usp=sharing
