@@ -3,7 +3,7 @@
 
 <div align="center">
 <p align="center">Let's connect!</p>
- <a href="https://mustafakhan.rocks">
+ <a href="https://mustafakhan.me">
     <img src="https://img.shields.io/badge/Portfolio Website-1DA1F2?style=for-the-badge&logo=Personal_Website&logoColor=white" />
  </a>
 <a href="https://www.twitter.com/mustafa-kh4n/">
