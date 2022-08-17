@@ -21,13 +21,14 @@
 ### About Me:
 
 - 🖥 | Pursuing Bachelor's Degree in CS |
-- 🕸️ I’m currently Self learning Backend Web Development. 
+- 🕸️ I’m currently Self-learning Backend Web Development. 
 - 🔒 Main Field of Interest: idk.....pretty much everything interests me!
 - 👯 I'd love to collaborate with other Computer & Engineering Nerds || Communities.
 - 🥅 2022 Goals: Learn as Much as I can! 
 - 🤖 Hobby: Electronics & Cool Stuff with Arduino
 
 ### Languages
+
 ![C++](https://img.shields.io/badge/-C++-000?logo=c)
 ![Java](https://img.shields.io/badge/-Java-000?logo=java)
 ![JavaScript](https://img.shields.io/badge/-Javascript-000?logo=javascript)
@@ -35,12 +36,14 @@
 ![CSS](https://img.shields.io/badge/-CSS3-000?logo=CSS3)
 
 ### Technologies and Frameworks
+
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Expressjs-000?logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?logo=arduino)
  
  ### Github Statistics
+ 
 <p align="center">
 <a href="https://github.com/mustafa-khann">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mustafa-khann&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
