@@ -41,15 +41,6 @@
 ![Express.js](https://img.shields.io/badge/-Expressjs-000?logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?logo=arduino)
- 
- ### Github Statistics
- 
-<p align="center">
-<a href="https://github.com/mustafa-khann">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mustafa-khann&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mustafa-khann&layout=compact&langs_count=8&theme=react"/>
-</a>
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-khann&theme=react&hide_border=true" alt="my commit status" width="49%" /> 
