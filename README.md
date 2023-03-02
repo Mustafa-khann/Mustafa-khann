@@ -24,7 +24,7 @@
 - 🕸️ I’m currently Self-learning Backend Web Development. 
 - 🔒 Main Field of Interest: idk.....pretty much everything interests me!
 - 👯 I'd love to collaborate with other Computer & Engineering Nerds || Communities.
-- 🥅 2022 Goals: Learn as Much as I can! 
+- 🥅 2023 Goal: Learn as Much as I can! 
 - 🤖 Hobby: Electronics & Cool Stuff with Arduino
 
 ### Languages
