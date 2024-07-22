@@ -20,12 +20,12 @@
 
 ### About Me:
 
-- 🖥 | Pursuing Bachelor's Degree in CS |
-- 🕸️ I’m currently Self-learning Backend Web Development. 
+- 🖥 | CS |
+- 🕸️ I’m currently Self-learning Low-level C and assembly. 
 - 🔒 Main Field of Interest: idk.....pretty much everything interests me!
 - 👯 I'd love to collaborate with other Computer & Engineering Nerds || Communities.
-- 🥅 2023 Goal: Learn as Much as I can! 
-- 🤖 Hobby: Electronics & Cool Stuff with Arduino
+- 🥅 2024 Goal: Learn as Much as I can! 
+- 🤖 Hobby: Electronics & LLMs are also cool.
 
 ### Languages
 
