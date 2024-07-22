@@ -46,13 +46,11 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-khann&theme=react&hide_border=true" alt="my commit status" width="49%" /> 
 </p>
 
-### Github Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mustafa-khann&theme=react-dark)  
 
 ![](https://komarev.com/ghpvc/?username=Mustafa-khann&color=red&label=Profile+Views)
 
 
-[website]: https://mustafakhan.rocks
+[website]: https://mustafa-khann.github.io/Portfolio-Website/
 [Resume]: https://drive.google.com/file/d/1OBI1CbV2Wg8KDhOWaKdXwlEKU5xhGUFf/view?usp=sharing
 [twitter]: https://twitter.com/mustafa_kh4n
 [instagram]: https://instagram.com/mstfa.khan
