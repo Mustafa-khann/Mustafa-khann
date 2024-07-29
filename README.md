@@ -20,9 +20,10 @@ I'm a curious innovator, passionate about **Computer Science**, **Electrical Eng
 
 ### Languages
 
-![C++](https://img.shields.io/badge/-C++-000?logo=c)
+![C](https://img.shields.io/badge/-C-000?logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript)
 ![Golang](https://img.shields.io/badge/-Golang-000?logo=go)
+![Python](https://img.shields.io/badge/-Python-000?logo=python)
 
 ### Frameworks & Libraries
 
