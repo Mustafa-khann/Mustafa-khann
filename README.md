@@ -3,9 +3,6 @@
 
 <div align="center">
   <p align="center">Where code meets art, and innovation meets environmental wisdom.</p>
-  <a href="https://mustafakhan.me">
-    <img src="https://img.shields.io/badge/Portfolio-Website-1DA1F2?style=for-the-badge&logo=Personal_Website&logoColor=white" alt="Portfolio Website"/>
-  </a>
   <a href="https://twitter.com/mustafa_kh4n">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
