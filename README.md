@@ -38,14 +38,3 @@ An eclectic mix of curiosity and creativity, always exploring new horizons. Here
 - 🛰️ Drones may have been my first love, but I now enjoy imagining them as space explorers navigating the final frontier.
 - 🌌 When not coding, I dive into mathematics, psychology, and aeronautical engineering. (Why not?) I also ponder the universe's secrets and create sci-fi plots with robots and humans teaming up to colonize Mars.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-khann&theme=react&hide_border=true" alt="GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-khann&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mustafa-khann&color=red&label=Profile+Views" alt="Profile Views"/>
-</p>
