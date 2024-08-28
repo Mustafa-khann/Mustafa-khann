@@ -1,5 +1,4 @@
 <div align="center">
-  <p>Where code meets art, and innovation meets environmental wisdom.</p>
   <a href="https://x.com/mustafa_kh4n">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
@@ -12,10 +11,10 @@
 </div>
 
 ## 🌟 About Me
-Hey there! I'm Mustafa, your friendly neighborhood code wizard. 🧙‍♂️ When I'm not busy turning coffee into code, I'm probably dreaming up ways to blend tech with the wisdom of nature. Think of me as a techie with a touch of zen. 🌿
+Hey there! I'm Mustafa, your friendly neighborhood code wizard.
 
 ## 🔧 Technologies & Tools
-- **Languages**: C, Java, JavaScript, Golang, Python
+- **Languages**: C, JavaScript, Golang, Python
 - **Frameworks**: React, React Native, Node.js, Express.js
 - **Tools & Technologies**: Jenkins, AWS, Arduino, LangChain, Agents
 
