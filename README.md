@@ -15,7 +15,7 @@ Hey there! I'm Mustafa, your friendly neighborhood code wizard.
 
 ## 🔧 Technologies & Tools
 - **Languages**: C, JavaScript, Python
-- **Frameworks**: React, React Native, Node.js, Express.js, & Laravel.
+- **Frameworks**: MERN Stack, Laravel.
 - **Tools & Technologies**: Jenkins, AWS, Arduino, LangChain, Agents
 
 ## 🔧 Interests
