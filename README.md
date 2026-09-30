@@ -1,132 +1,39 @@
-**Mustafa Khan**
+<div align="center">
+  <a href="https://x.com/mustafa_kh4n">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/mstfa.khan">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/mustafa-kh4n">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
 
-**Robotics Systems · Embedded Systems · Autonomous Machines · Manufacturing**
+## 🌟 About Me
+Hey there! I'm Mustafa, your friendly neighborhood code wizard.
 
-I build systems that sit close to physics.
+## 🔧 Technologies & Tools
+- **Languages**: C, JavaScript, Python
+- **Frameworks**: MERN Stack, Laravel.
+- **Tools & Technologies**: Jenkins, AWS, Arduino, LangChain, Agents
 
-My work spans robotics, embedded systems, autonomy, low-level software, simulation, electronics, and increasingly the manufacturing systems required to turn these technologies into physical products.
+## 🔧 Interests
+An eclectic mix of curiosity and creativity, always exploring new horizons. Here’s a glimpse into what fascinates me:
 
-I am particularly interested in understanding complex systems from first principles — then building them.
+- **Low-level C**: Debugging like a digital detective. 🕵️‍♂️
+- **Large Language Models**: Teaching machines to converse like humans. 🤖
+- **Circuit and PCB Design**: Crafting electronic art where copper traces and components align. 
+- **3D Printing**: Spawning objects from nothingness, layer by layer. 
+- **IoT**: Making the world smarter, one sensor at a time. (I dream of a home where even the fridge gives motivational speeches.) 🗣️
+- **Space Exploration**: Plotting my next interstellar adventure. 🌠
+- **Rocket Science**: Understanding how to escape Earth's atmosphere. 🚀
+- **Psychology**: Analyzing how people tick and making tech that understands us better. 🧠
 
----
+## ✨ Fun Facts
+- 🌳 Deeply inspired by nature, I solve problems with nature-inspired algorithms. (Yes, I talk to trees sometimes, but they don't mind.)
+- 🤖 Built a neural network from scratch, and it was exhilarating! (I may or may not have shouted "It's alive!" at my screen.)
+- 🚀 Space is my playground! Dream of rockets and galaxies, with stargazing and plotting interstellar missions on my ideal weekend.
+- 🛰️ Drones may have been my first love, but I now enjoy imagining them as space explorers navigating the final frontier.
+- 🌌 When not coding, I dive into mathematics, psychology, and aeronautical engineering. (Why not?) I also ponder the universe's secrets and create sci-fi plots with robots and humans teaming up to colonize Mars.
 
-### **What I’m working on**
-
-**Robotics**
-
-Building toward vertically integrated robotics systems: actuators, electronics, embedded control, perception, autonomy, simulation, and the software connecting them.
-
-**Actuat**
-
-Exploring the engineering and manufacturing stack behind electromechanical systems — starting with motors and actuators and working downward into their components, processes, tooling, and supply chains.
-
-**World Models & Simulation**
-
-Interested in physics-grounded simulation, synthetic data generation, robot learning, and world models for machines operating in unstructured environments.
-
-**Manufacturing**
-
-Studying how modern products move from CAD → prototype → tooling → process engineering → production → quality control.
-
-The long-term objective is simple:
-
-build the capability to turn ideas into physical machines at scale.
-
----
-
-### **Engineering interests**
-
-```text
-Robotics
-├── Actuators & Motors
-├── Embedded Systems
-├── Control Systems
-├── Perception
-├── Robot Learning
-├── World Models
-└── Autonomous Systems
-
-Physical Computing
-├── Electronics
-├── PCB Design
-├── Sensors
-├── IoT
-└── Edge Computing
-
-Systems
-├── C / C++
-├── Operating Systems
-├── Compilers
-├── Computer Architecture
-└── Distributed Systems
-
-Manufacturing
-├── CAD / CAM
-├── CNC Machining
-├── Additive Manufacturing
-├── Design for Manufacturing
-└── Industrial Automation
-```
-
----
-
-### **Selected builds**
-
-**TinyOS**\
-A tiny operating system for the Raspberry Pi written from scratch in C.
-
-**Tiny Compiler**\
-A compiler built from scratch in C to understand how source code becomes machine-executable instructions.
-
-**HTTP Server**\
-An HTTP server implemented from scratch in C.
-
-**Neural Networks in C**\
-Neural-network implementations built without ML frameworks, including MNIST digit and sign-language recognition.
-
-**Autonomous Delivery Drone**\
-An autonomous aerial robotics system combining onboard computing, computer vision, GPS navigation, flight control, and a software backend.
-
-**Robotics Simulation & Synthetic Data**\
-Physics-grounded simulation pipelines for generating robot training and evaluation data from structured scenarios.
-
----
-
-### **Current direction**
-
-I think the interesting frontier of computing is moving back toward the physical world.
-
-AI becomes substantially more interesting when it can perceive, reason about, and manipulate physical reality.
-
-That requires more than models.
-
-It requires mechanics, motors, power electronics, sensors, embedded computing, control theory, simulation, manufacturing, and software working as one system.
-
-That is the stack I want to understand.
-
-And eventually build.
-
----
-
-### **Tools**
-
-**Languages**\
-C · C++ · Python · JavaScript / TypeScript
-
-**Robotics & Simulation**\
-MuJoCo · ROS · Computer Vision · Robot Learning
-
-**Embedded**\
-ESP32 · Raspberry Pi · Arduino · Sensors · Motor Control
-
-**Software**\
-Linux · Git · Docker · AWS · Node.js
-
-**Hardware / Manufacturing**\
-PCB Design · CAD · 3D Printing · Electronics Prototyping
-
----
-
-### **Elsewhere**
-
-[Website](https://www.oprydai.com) · [X / Twitter](https://x.com/oprydai)
