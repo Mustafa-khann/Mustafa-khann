@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey, I’m Mustafa Khan 👋</h1>
+  <h1>Mustafa Khan 👋</h1>
   <h3>I build systems that sit close to physics.</h3>
   <p>Robotics Systems · Embedded Systems · Autonomous Machines · Manufacturing</p>
 
@@ -13,93 +13,50 @@
 
 ## 🌟 About Me
 
-I like understanding how things work all the way down — from the instructions a processor executes to the motors that move a robot.
+I build robotics systems and embedded software from first principles.
 
-That curiosity has taken me through operating systems, compilers, servers, and neural networks built from scratch in C. It also connects my work in robotics, embedded systems, autonomy, simulation, and electronics.
+My focus is autonomous machines and the engineering required to turn them into physical products: control, electronics, simulation, and manufacturing.
 
-These days, I’m increasingly interested in the next part of the journey: the engineering and manufacturing needed to turn those systems into physical products.
-
-**The long-term goal: build the capability to turn ideas into physical machines at scale.**
+**Long term goal: turn ideas into physical machines at scale.**
 
 ## 🤖 What I’m Working On
 
-- 🤖 **Robotics, from actuator to autonomy**: Building toward vertically integrated robotics systems — actuators, electronics, embedded control, perception, autonomy, simulation, and the software that brings them together.
-- ⚙️ **Actuat**: Exploring what it takes to engineer and manufacture electromechanical systems. Starting with motors and actuators, then digging into their components, processes, tooling, and supply chains.
-- 🌍 **World Models & Simulation**: Exploring physics-grounded simulation, synthetic data generation, and robot learning for machines operating in unstructured environments.
-- 🏭 **Manufacturing**: Studying the journey from CAD → prototype → tooling → process engineering → production → quality control. A design gets more interesting when you understand how to make it.
+* **Robotics:** Building toward vertically integrated systems spanning actuators, electronics, embedded control, perception, autonomy, and simulation.
+* **Actuat:** Exploring motor and actuator engineering and manufacturing, from components and processes to tooling and supply chains.
+* **World Models & Simulation:** Exploring physics based simulation, synthetic data, robot learning, and world models for unstructured environments.
+* **Manufacturing:** Studying the path from CAD to production: prototyping, tooling, process engineering, and quality control.
 
-## 🚀 A Few Things I’ve Built
+## 🚀 Selected Builds
 
-Building from scratch has been one way for me to get closer to the fundamentals:
-
-| Build | What’s inside |
+| Build | Implementation |
 | --- | --- |
-| 🖥️ **[TinyOS](https://github.com/Mustafa-khann/TinyOS)** | A tiny Raspberry Pi operating system written from scratch in C. |
-| 🔨 **[Tiny Compiler](https://github.com/Mustafa-khann/Tiny-Compiler)** | A compiler built in C to understand the journey from source code to machine-executable instructions. |
-| 🌐 **[HTTP Server](https://github.com/Mustafa-khann/http-server)** | An HTTP server implemented from scratch in C. |
-| 🧠 **Neural Networks in C** | Neural networks built without ML frameworks: [MNIST digits](https://github.com/Mustafa-khann/MNIST-Digit-Recognizer-in-C) and [sign-language recognition](https://github.com/Mustafa-khann/MNIST-Sign-Language-Recognizer-in-C). |
-| 🛰️ **Autonomous Delivery Drone** | An aerial robotics system bringing together onboard computing, computer vision, GPS navigation, flight control, and a software backend. |
-| 🌍 **Robotics Simulation & Synthetic Data** | Physics-grounded simulation pipelines that turn structured scenarios into robot training and evaluation data. |
+| **[TinyOS](https://github.com/Mustafa-khann/TinyOS)** | Raspberry Pi operating system written from scratch in C. |
+| **[Tiny Compiler](https://github.com/Mustafa-khann/Tiny-Compiler)** | Compiler built from scratch in C. |
+| **[HTTP Server](https://github.com/Mustafa-khann/http-server)** | HTTP server built from scratch in C. |
+| **Neural Networks in C** | [MNIST digit](https://github.com/Mustafa-khann/MNIST-Digit-Recognizer-in-C) and [sign language](https://github.com/Mustafa-khann/MNIST-Sign-Language-Recognizer-in-C) recognition without ML frameworks. |
+| **Autonomous Delivery Drone** | Onboard computing, computer vision, GPS navigation, flight control, and a software backend. |
+| **Robotics Simulation & Synthetic Data** | Physics based pipelines generating robot training and evaluation data. |
 
-## 🧩 Engineering Rabbit Holes
-
-I’m interested in how these fields connect — and what becomes possible when they work as one system.
+## 🧩 Engineering Interests
 
 <details>
-<summary><strong>Explore the stack 🔍</strong></summary>
+<summary><strong>Robotics · Physical Computing · Systems · Manufacturing</strong></summary>
 
-```text
-Robotics
-├── Actuators & Motors
-├── Embedded Systems
-├── Control Systems
-├── Perception
-├── Robot Learning
-├── World Models
-└── Autonomous Systems
-
-Physical Computing
-├── Electronics
-├── PCB Design
-├── Sensors
-├── IoT
-└── Edge Computing
-
-Systems
-├── C / C++
-├── Operating Systems
-├── Compilers
-├── Computer Architecture
-└── Distributed Systems
-
-Manufacturing
-├── CAD / CAM
-├── CNC Machining
-├── Additive Manufacturing
-├── Design for Manufacturing
-└── Industrial Automation
-```
+* **Robotics:** Actuators & Motors · Embedded Systems · Control Systems · Perception · Robot Learning · World Models · Autonomous Systems
+* **Physical Computing:** Electronics · PCB Design · Sensors · IoT · Edge Computing
+* **Systems:** C / C++ · Operating Systems · Compilers · Computer Architecture · Distributed Systems
+* **Manufacturing:** CAD / CAM · CNC Machining · Additive Manufacturing · Design for Manufacturing · Industrial Automation
 
 </details>
 
-## 🧭 Current Direction
+## 🔧 Tools
 
-I think one of the most interesting frontiers of computing is moving back toward the physical world. AI gets especially interesting to me when it can perceive, reason about, and manipulate physical reality.
-
-That brings an entire engineering stack into play: mechanics, motors, power electronics, sensors, embedded computing, control theory, simulation, manufacturing, and software.
-
-I want to understand that stack from first principles — then build machines that put it to work.
-
-## 🔧 Technologies & Tools
-
-- **Languages**: C · C++ · Python · JavaScript / TypeScript
-- **Robotics & Simulation**: MuJoCo · ROS · Computer Vision · Robot Learning
-- **Embedded**: ESP32 · Raspberry Pi · Arduino · Sensors · Motor Control
-- **Software**: Linux · Git · Docker · AWS · Node.js
-- **Hardware / Manufacturing**: PCB Design · CAD · 3D Printing · Electronics Prototyping
+* **Languages:** C · C++ · Python · JavaScript / TypeScript
+* **Robotics & Simulation:** MuJoCo · ROS · Computer Vision · Robot Learning
+* **Embedded:** ESP32 · Raspberry Pi · Arduino · Sensors · Motor Control
+* **Software:** Linux · Git · Docker · AWS · Node.js
+* **Hardware & Manufacturing:** PCB Design · CAD · 3D Printing · Electronics Prototyping
 
 ## 🌐 Elsewhere
-
-If you’re building robots, exploring electromechanical systems, or figuring out how to manufacture them, I’d love to compare notes.
 
 [Website](https://www.oprydai.com) · [X / Twitter](https://x.com/oprydai)
